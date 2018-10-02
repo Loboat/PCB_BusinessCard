@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="399.94791mm"
+   height="55.439953mm"
+   viewBox="0 0 399.94791 55.439953"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="text_bottom.svg"
+   inkscape:export-filename="C:\Users\LB\Desktop\PCB business card\Design\texte\texte_bottom.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="389.88082"
+     inkscape:cy="-79.58709"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1304"
+     inkscape:window-height="746"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-208.52211,-23.373969)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.05657578px;line-height:1.25;font-family:Dosis;-inkscape-font-specification:Dosis;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.50151551"
+       x="-609.42297"
+       y="65.976967"
+       id="text817"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="-609.42297"
+         y="65.976967"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';stroke-width:1.50151551">Always a new idea.</tspan></text>
+  </g>
+</svg>
